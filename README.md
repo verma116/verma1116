@@ -51,11 +51,10 @@ Currently looking for **internship / entry-level software roles**.
 
 ---
 
-## 📈 GitHub Insights (Live)
+## 📈 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=verma116&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma116&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=verma116&show_icons=true&hide_border=true" />
 </p>
 
 ---
