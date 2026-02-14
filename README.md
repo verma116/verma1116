@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Adithya%20Verma&fontSize=36&animation=fadeIn"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Adithya%20Verma%20M%20A&fontSize=38&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
