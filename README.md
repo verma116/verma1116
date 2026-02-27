@@ -85,14 +85,6 @@ I enjoy transforming ideas into real-world systems with clean architecture and m
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=verma116&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
