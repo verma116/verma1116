@@ -1,53 +1,69 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Adithya%20Verma%20M%20A&fontSize=38&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Full+Stack+Development+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+%7C+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+%7C+Problem+Solving" />
 </p>
 
 ---
 
-## 👋 Introduction
+## 👋 About Me
 
-I am a **Computer Science Engineering student** with practical experience in building
-**full-stack web applications**. I enjoy working on real-world projects, improving backend logic,
-and learning modern development practices.
+I am a **Computer Science Engineering student** focused on building scalable and practical
+**full-stack web applications**.
 
-Currently looking for **internship / entry-level software roles**.
+I enjoy designing clean backend architectures, implementing secure authentication systems,
+and optimizing application performance.
+
+Currently seeking **internship / entry-level Software Developer opportunities** where I can
+contribute to real-world products and grow as an engineer.
 
 ---
 
-## ⚙️ Technical Skills (Animated Icons)
+## ⚙️ Technical Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mongodb,mysql,git&perline=6" />
 </p>
 
+**Core Areas:**
+- Full Stack Development (MERN)
+- REST API Design
+- Authentication & Authorization
+- Database Design
+- Problem Solving & DSA
+
 ---
 
-## 🧩 Projects Snapshot
+## 🧩 Projects
 
-### CareerBridge – Job Portal  
-- Built full-stack job portal using React, Node.js & MongoDB  
-- Implemented authentication and role-based dashboards  
-- REST API–driven backend architecture  
+### 🔹 CareerBridge – Job Portal (MERN Stack)
+- Developed a full-stack job portal using React, Node.js & MongoDB  
+- Implemented JWT-based authentication and role-based dashboards  
+- Designed RESTful APIs for job postings, applications, and user management  
+- Structured backend using MVC architecture  
 
-### HealthHub – Health Management Platform  
-- Appointment booking & patient record management  
-- Secure authentication workflow  
-- Backend optimization & debugging  
+---
 
-### GadgetShop – E-Commerce Website  
-- Product catalog, cart & checkout system  
-- PHP & MySQL backend  
-- Interactive UI using JavaScript  
+### 🔹 HealthHub – Health Management Platform
+- Built appointment booking and patient record management system  
+- Implemented secure authentication workflow  
+- Improved backend validation and error handling  
+- Focused on clean UI and structured database schema  
+
+---
+
+### 🔹 GadgetShop – E-Commerce Website
+- Developed product catalog, cart, and checkout system  
+- Built backend using PHP & MySQL  
+- Implemented dynamic UI interactions with JavaScript  
 
 ---
 
 ## 🏆 Achievements
 
-- Led **Ideathon** – ISTE Karnataka State Level Convention  
-- Participant – **TECHNO MAZE** (State Level)  
-- Runner-up – **INNOVISTA** Project Expo  
+- 🥇 Runner-up – INNOVISTA Project Expo  
+- 🎯 Participant – TECHNO MAZE (State Level)  
+- 👨‍💼 Led Ideathon – ISTE Karnataka State Level Convention  
 
 ---
 
@@ -55,14 +71,14 @@ Currently looking for **internship / entry-level software roles**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=verma116&show_icons=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=verma116&show_icons=true&count_private=true&theme=default"
     alt="GitHub stats"
   />
 </p>
 
 ---
 
-## 📊 Contribution Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=verma116&theme=minimal&hide_border=true" />
@@ -70,7 +86,7 @@ Currently looking for **internship / entry-level software roles**.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/verma116">
@@ -89,4 +105,4 @@ Currently looking for **internship / entry-level software roles**.
 
 ---
 
-⭐ Building projects • Learning continuously • Growing as an engineer
+⭐ Building impactful software • Continuously learning • Growing as a developer
