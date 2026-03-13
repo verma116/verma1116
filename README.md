@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Adithya%20Verma%20M%20A&fontSize=38&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Adithya%20Verma%20M%20&fontSize=38&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Full+Stack+Development+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+%7C+Problem+Solving" />
